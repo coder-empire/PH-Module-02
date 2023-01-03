@@ -1,0 +1,29 @@
+
+*{
+    margin: 0px;
+}
+.blog{
+    background-color: lightblue;
+    border: 5px dotted red;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 50px;
+    height: 80px;
+    width: 50%; 
+}
+.page-title{
+    height: 200px;
+    color: white;
+    background-image: url(../Module-02/images/cars/pexal.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.blog-title{
+    color: yellow;
+    text-decoration: overline;
+    border: 2px solid red;
+}
+.third-blog{
+    text-align: center;
+}
